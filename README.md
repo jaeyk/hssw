@@ -2,7 +2,7 @@
 
 Welcome to the Berkeley Historical Social Science Workshop (BHSSW)!
 
-You can find our main website at: https://github.com/jaeyk/hssw
+You can find our 2019 Fall schedule at: 
 
 BHSSW is a monthly venue for faculty/ graduate student presentations of historically-motivated work for discussion and commentary.
 
