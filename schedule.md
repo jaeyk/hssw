@@ -1,5 +1,5 @@
 # 2019 Fall 
 
-- Paul Pierson and Eric Schickler (political science), "Madison's Constitution Under Stress: A Developmental Analysis of Political Polarization", September
+- Paul Pierson and Eric Schickler (Political Science), "Madison's Constitution Under Stress: A Developmental Analysis of Political Polarization", September
 
-- Dylan Reiley (sociology), TBD, October
+- Dylan Reiley (Sociology), “Rethinking Liberal Democracy and the Fascist Legacy”, October
