@@ -10,4 +10,4 @@ If you are interested in joining the workshop or finding out more about what we 
 
 Please sign up using your Berkeley email address. An organizer will approve your membership to the forum.
 
-We meet on a Friday at 12:00 pm. A light lunch will be provided. See you there!
+We meet monthly on Fridays at noon. A light lunch will be provided. See you there!
