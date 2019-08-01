@@ -8,6 +8,6 @@ HSSW is a monthly venue for faculty/graduate student presentations of historical
 
 If you are interested in joining the workshop or finding out more about what we have in store, please join the Historical Social Science Workshop Email Listserv by requesting to subscribe at: https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/hssw/join 
 
-Please sign up using your Berkeley email address. An organizer will approve your membership to the forum.
+Please sign up using your Berkeley email address. An organizer will approve your membership to the workshop.
 
 We meet monthly on Fridays at noon. A light lunch will be provided. See you there!
