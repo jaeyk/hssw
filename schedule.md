@@ -4,4 +4,4 @@
 
 - [Dylan Riley](https://sociology.berkeley.edu/faculty/dylan-john-riley) (Sociology, UC Berkeley), “Rethinking Liberal Democracy and the Fascist Legacy”, October 18
 
-- [Noah Nathan](https://sites.lsa.umich.edu/noahnathan/) (Political Science, Michigan), TBD
+- [Noah Nathan](https://sites.lsa.umich.edu/noahnathan/) (Political Science, Michigan), TBC, November 8
