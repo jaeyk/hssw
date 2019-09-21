@@ -10,4 +10,4 @@ If you are interested in joining the workshop or finding out more about what we 
 
 Please sign up using your Berkeley email address. An organizer will approve your membership to the workshop.
 
-We meet monthly on Fridays at noon at the seminar room at the Social Science Mattrix (820 Barrows Hall). A light lunch will be provided. See you there!
+We are supported by the Social Science Matrix as a Matrix Working Group in Fall 2019. We meet monthly on Fridays at noon at the seminar room at the Social Science Mattrix (820 Barrows Hall). A light lunch will be provided. See you there!
