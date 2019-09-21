@@ -4,12 +4,10 @@ Welcome to the Historical Social Science Workshop (HSSW)!
 
 You can find our 2019 Fall schedule at: https://github.com/jaeyk/hssw/blob/master/schedule.md
 
-HSSW is a monthly venue for faculty/graduate student presentations of historically-motivated work for discussion and commentary.
+HSSW is a monthly venue for faculty/graduate student presentations of historically-motivated work for discussion and commentary, supported by the Social Science Matrix.
 
 If you are interested in joining the workshop or finding out more about what we have in store, please join the Historical Social Science Workshop Email Listserv by requesting to subscribe at: https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/hssw/join 
 
 Please sign up using your Berkeley email address. An organizer will approve your membership to the workshop.
-
-The workshop is supported by the Social Science Matrix. 
 
 We meet monthly on Fridays at noon at the seminar room at the Social Science Matrix (820 Barrows Hall). A light lunch will be provided. See you there!
