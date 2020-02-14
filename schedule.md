@@ -10,8 +10,8 @@
 
 # 2019 Fall Schedule
 
-- September 20th: [Paul Pierson](https://polisci.berkeley.edu/people/person/paul-pierson) and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler) (UC Berkeley, Prof. of Political Science), "Madison's Constitution Under Stress: A Developmental Analysis of Political Polarization", September 20
+- September 20th: [Paul Pierson](https://polisci.berkeley.edu/people/person/paul-pierson) and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler) (UC Berkeley, Prof. of Political Science), "Madison's Constitution Under Stress: A Developmental Analysis of Political Polarization"
 
-- October 18th: [Dylan Riley](https://sociology.berkeley.edu/faculty/dylan-john-riley) (UC Berkeley, Prof. of Sociology), “Rethinking Liberal Democracy and the Fascist Legacy”, October 18
+- October 18th: [Dylan Riley](https://sociology.berkeley.edu/faculty/dylan-john-riley) (UC Berkeley, Prof. of Sociology), “Rethinking Liberal Democracy and the Fascist Legacy”
 
 - November 8th: [Noah Nathan](https://sites.lsa.umich.edu/noahnathan/) (Michigan, Assistant Prof. of Political Science), "Colonial Invention, Intra-Ethnic Inequality, and the Modern Political Elite"
