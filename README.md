@@ -2,7 +2,7 @@
 
 Welcome to the Historical Social Science Workshop (HSSW)!
 
-You can find our archived Fall 2019 and Spring 2020 schedule at: https://github.com/ottokienitz/hssw/blob/master/schedule_2019-2020.md.
+You can find our archived Fall 2019 and Spring 2020 schedules at: https://github.com/ottokienitz/hssw/blob/master/schedule_2019-2020.md.
 
 HSSW is a cross-discplinary venue for faculty and advanced graduate student presentations of historically-motivated work for discussion and commentary, supported by the Berkeley Social Science Matrix (Social Sciences Building, 8th Floor).
 
