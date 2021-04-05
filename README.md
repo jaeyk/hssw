@@ -8,6 +8,6 @@ HSSW is a cross-discplinary venue for faculty and advanced graduate student pres
 
 If you are interested in joining the workshop or finding out more about what we have in store, please join the Historical Social Science Workshop email list-serv by requesting to subscribe at: https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/hssw/join.
 
-Please sign up using your .edu email address. An organizer will approve your membership to the workshop.
+Please sign up using your .edu email address. An organizer will approve your membership to the group.
 
-Check out other recent discussion of historical social science research here: https://broadstreet.blog.
+Check out other recent discussions of historical social science research here: https://broadstreet.blog.
